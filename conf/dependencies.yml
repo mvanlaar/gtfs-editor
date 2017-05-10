@@ -31,9 +31,10 @@ repositories:
             - jgridshift -> *
             - java3d -> *
             - javax.media -> *
+
     - akka:
-      type: iBiblio
-      root: "http://repo.akka.io/releases/"
+        type: iBiblio
+        root: "http://repo.akka.io/releases/"
         contains:
             - voldemort.store.compress -> *
 
